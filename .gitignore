@@ -1,0 +1,8 @@
+# Ignore specific directories
+/data/
+/__pycache__
+
+# Ignore specific files
+readme.txt
+test.py
+Readme.txt
